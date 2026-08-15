@@ -22,7 +22,3 @@ console.log(accountId);
     because of issue of block scope and functional scope  
 */
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
-
-
-
-
